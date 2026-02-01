@@ -1,0 +1,1 @@
+console.log("Book Cover Builder app initialized");
